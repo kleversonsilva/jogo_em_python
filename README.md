@@ -1,4 +1,4 @@
-# 🎮 Micro Roguelike
+# 🎮 The Gauntlet
 Este é um projeto de jogo Roguelike simples, desenvolvido em Python utilizando a biblioteca PgZero. O objetivo foi criar uma experiência de jogo completa, focando nos requisitos essenciais do gênero e nas restrições de bibliotecas.
 
 ## ✨ Funcionalidades Principais
